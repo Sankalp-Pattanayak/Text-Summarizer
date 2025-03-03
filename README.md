@@ -67,7 +67,7 @@ Video reference for creating a virtual environment [link](https://youtu.be/hHAIO
 
 Clone the github repo
 
-    git clone https://github.com/Venkatesh0610/text-summarizer-LLM.git
+    git clone https://github.com/Sankalp-Pattanayak/Text-Summarizer.git
 
 **Step 2**
 
@@ -88,15 +88,3 @@ Now download the model file using the below link
 Run the application
 
     streamlit run app.py
-
-**Step 5**
-
-Check the results in the browser
-
-  http://localhost:8501/
-
-## Results
-
-![](https://drive.google.com/file/d/1Z5GS0UuEaTAYpDBHdOh5SrCOh17MWKVp/view?usp=drive_link)
-
-[![Watch the video](https://cdn-icons-png.flaticon.com/512/8820/8820688.png)](https://drive.google.com/file/d/1Z5GS0UuEaTAYpDBHdOh5SrCOh17MWKVp/view?usp=drive_link)
