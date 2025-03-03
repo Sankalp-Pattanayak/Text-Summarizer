@@ -9,13 +9,12 @@
   2.	Definitions
   3.	Creating virtual environment
   4. Setup
-  5. Results
+
 
 ## Objective
 
 The objective of the project is to develop a text summarization system leveraging Large Language Models (LLMs) to automatically generate concise and informative summaries of given texts. The system aims to accurately capture the key points and essential information from the input text, while ensuring coherence and readability in the generated summaries.
 
-**Youtube Video** : 
 ## Definitions
 
   #### CTransformers
@@ -48,18 +47,12 @@ The objective of the project is to develop a text summarization system leveragin
   where, langchain is the environment name.
 
 - **Step 3**
-  
-  Next for activating the environment change your directory
-      
-      cd venv/Scripts
-
-- **Step 4**
 
   Write activate and hit enter it will activate your environment
 
       activate
 
-Video reference for creating a virtual environment [link](https://youtu.be/hHAIO7sa29s)
+
 
 ## Setup
 
